@@ -43,9 +43,3 @@ I'm Vitor, a Systems Analysis and Development student from Fortaleza, Brazil ğŸ‡
 </p>
 
 ---
-
-## ğŸ Snake eating my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitorzwk/vitorzwk/output/github-contribution-grid-snake-dark.svg" />
-</p>
