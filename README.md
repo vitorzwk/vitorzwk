@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey What's up? 🤟</h1>
 
 <p align="center">
-My name is Vitor and I'm a Systems Analysis and Development student from Brazil 🇧🇷
+My name is Vitor and I'm a Systems Analysis and Development student from Fortaleza-CE 🇧🇷
 </p>
 
 ---
@@ -29,11 +29,10 @@ My name is Vitor and I'm a Systems Analysis and Development student from Brazil 
 
 ## 🎮 In my free time, I like to...
 
-- 🏀 Play basketball  
-- 🎬 Watch movies  
-- 🤠 Play Red Dead Redemption 2  
-- 🐍 Play Snake game  
-
+- 🏀 Trully love play basketball. 
+- 🎬 Watch movies like "Project Hail Mary" and "Seven". 
+- 🤠 Big fan of Red Dead Redemption 2.   
+- 🏋️‍♂️ Work hard at gym.
 ---
 
 ## 📈 GitHub Stats
