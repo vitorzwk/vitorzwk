@@ -42,3 +42,9 @@ My name is Vitor and I'm a Systems Analysis and Development student from Fortale
 </p>
 
 ---
+
+## 🐍 Snake eating my contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitorzwk/vitorzwk/output/github-contribution-grid-snake.svg" />
+</p>
