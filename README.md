@@ -1,12 +1,12 @@
-<h1 align="center">Hey What's up? 🤟</h1>
+<h1 align="center">Hey, what's up? 🤟</h1>
 
 <p align="center">
-My name is Vitor and I'm a Systems Analysis and Development student from Fortaleza-CE 🇧🇷
+I'm Vitor, a Systems Analysis and Development student from Fortaleza, Brazil 🇧🇷
 </p>
 
 ---
 
-## 🚀 Main tech skills
+## 🚀 Main Tech Skills
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
@@ -17,7 +17,7 @@ My name is Vitor and I'm a Systems Analysis and Development student from Fortale
 
 ---
 
-## 📚 I also have knowledge of...
+## 📚 Additional Knowledge
 
 <p>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
@@ -29,10 +29,11 @@ My name is Vitor and I'm a Systems Analysis and Development student from Fortale
 
 ## 🎮 In my free time, I like to...
 
-- 🏀 Trully love play basketball. 
-- 🎬 Watch movies like "Project Hail Mary" and "Seven". 
-- 🤠 Big fan of Red Dead Redemption 2.   
-- 🏋️‍♂️ Work hard at gym.
+- 🏀 Basketball isn't just a hobby for me — it's part of who I am  
+- 🎬 Watching movies (especially *Se7en*)  
+- 🤠 Huge fan of Red Dead Redemption 2  
+- 🏋️‍♂️ Working out  
+
 ---
 
 ## 📈 GitHub Stats
@@ -46,5 +47,5 @@ My name is Vitor and I'm a Systems Analysis and Development student from Fortale
 ## 🐍 Snake eating my contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vitorzwk/vitorzwk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vitorzwk/vitorzwk/output/github-contribution-grid-snake-dark.svg" />
 </p>
