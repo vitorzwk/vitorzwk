@@ -38,7 +38,7 @@ My name is Vitor and I'm a Systems Analysis and Development student from Fortale
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorzwk&show_icons=true&theme=dark" />
 </p>
 
 ---
