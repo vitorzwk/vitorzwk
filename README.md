@@ -30,7 +30,7 @@ I'm Vitor, a Systems Analysis and Development student from Fortaleza, Brazil �
 ## 🎮 In my free time, I like to...
 
 - 🏀 Basketball isn't just a hobby for me — it's part of who I am  
-- 🎬 Watching movies (especially *Se7en*)  
+- 🎬 Watch movies.
 - 🤠 Huge fan of Red Dead Redemption 2  
 - 🏋️‍♂️ Working out  
 
