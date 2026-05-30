@@ -8,5 +8,17 @@
 - 💼 &nbsp; Creating dashboards and reports with Power BI for <a href="https://isoplast.ind.br/16/"><b>Isoplast</b></a>
 - 🌱 &nbsp; Learning more about Python and React (nodejs, javascript) everyday.
 
+- 💻 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat-square&logo=powerbi)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=Visual%20Studio)
+  
 <br/>
 <br/>
