@@ -1,5 +1,5 @@
 <h2> Hey! I'm Vitor Paixão.</h2>
-<img src="https://i.pinimg.com/736x/c7/a4/7d/c7a47d51b98ad09528c0633f27952684.jpg"></>
+<img src="https://i.pinimg.com/1200x/09/d7/a8/09d7a8d800e726fd90776dea9483ad39.jpg"></>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Junior Data Analysit,transforming data into insights and business solutions.
