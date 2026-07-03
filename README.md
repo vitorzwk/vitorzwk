@@ -8,12 +8,16 @@
 - 💼 &nbsp; Creating dashboards and reports with Power BI for <a href="https://isoplast.ind.br/16/"><b>Isoplast</b></a>
 - 🌱 &nbsp; Learning more about Python and React (nodejs, javascript) everyday.
 
-  <h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=mysql)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
