@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Junior Data Analysit,transforming data into insights and business solutions.
 - 🤘 &nbsp; Learning about SQL since 2023.
-- 🎓 &nbsp; Studying <b>Analysis and System Development</b> at <a href="https://www.uninassau.edu.br/"><b>Universidade Maurício de Nassau</b></a>. (3/4)
+- 🎓 &nbsp; Studying <b>Analysis and System Development</b> at <a href="https://www.uninassau.edu.br/"><b>Universidade Maurício de Nassau</b></a>. (4/4)
 - 💼 &nbsp; Creating dashboards and reports with Power BI for <a href="https://isoplast.ind.br/16/"><b>Isoplast</b></a>
 - 🌱 &nbsp; Learning more about Python and React (nodejs, javascript) everyday.
 
