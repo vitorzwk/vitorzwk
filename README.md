@@ -36,7 +36,7 @@
 <a href="https://www.credly.com/badges/23d2d298-34f7-4d77-873e-3f4223f145e2">
   <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="150" alt="AWS Academy Graduate - Cloud Foundations"/>
 </a>
-
-[![Google Certified](https://img.shields.io/badge/Google-Digital%20Marketing%20%26%20E--commerce-333333?style=flat-square&logo=google)]
+- 🛒 &nbsp; Google Digital Marketing & E-Commerce
+- <a href="https://coursera.org/verify/professional-cert/T2UCLKYWJDN2"/>
 <br/>
 <br/>  
