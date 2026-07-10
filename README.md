@@ -30,7 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=Visual%20Studio)
 
-<h3> - 🏆 &nbsp;Certifications</h3>
+ - 🏆AWS Cloud Certification &nbsp;
 
 <a href="https://www.credly.com/badges/23d2d298-34f7-4d77-873e-3f4223f145e2">
   <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="150" alt="AWS Academy Graduate - Cloud Foundations"/>
